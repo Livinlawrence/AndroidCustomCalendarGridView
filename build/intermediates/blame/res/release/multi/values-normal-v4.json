@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\SVN\\AndroidGridCalendar\\custom_grid_calendar_library\\build\\intermediates\\res\\merged\\release\\values-normal-v4\\values-normal-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "D:\\SVN\\AndroidGridCalendar\\custom_grid_calendar_library\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 46,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 48,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "D:\\SVN\\AndroidGridCalendar\\custom_grid_calendar_library\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 48,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 48,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "D:\\SVN\\AndroidGridCalendar\\custom_grid_calendar_library\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 48,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 49,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "D:\\SVN\\AndroidGridCalendar\\custom_grid_calendar_library\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 49,
+                        "endOffset": 150
+                    }
+                }
+            }
+        ]
+    }
+]

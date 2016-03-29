@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CustomGridCalendarLibrary</string>
+    <string name="monday">M</string>
+    <string name="tuesday">T</string>
+    <string name="wednesday">W</string>
+    <string name="thursday">T</string>
+    <string name="friday">F</string>
+    <string name="saturday">S</string>
+    <string name="sunday">S</string>
+
+
+    <color name="colorPrimary">#74BCEE</color>
+    <color name="colorPrimaryDark">#0088dc</color>
+    <color name="colorAccent">#49BA9C</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlack">#000</color>
+</resources>
