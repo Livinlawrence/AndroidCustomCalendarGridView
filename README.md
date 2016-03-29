@@ -2,7 +2,7 @@
 This is a GridView customised to be used as a CalendarView. As the native 
 Android CalendarView has limited functionalities, This customised GridView
 will be helpful for you to highlight dates with your own style
-
+<img src="/images/screen1.png" width="270px" height="480px"/>
 
 ##usage
 	 <view.CustomGridCalendarView
