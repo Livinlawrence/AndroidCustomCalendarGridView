@@ -151,5 +151,8 @@ public class CustomGridCalendarView extends LinearLayout implements AdapterView.
       rebuildCalendarAdapter();
    }
 
-
+   public void changeExistingListEventStatus(int position,boolean status) {
+      mAdapter.dayList.get(position).setEvent_status(status);
+      mAdapter.notifyDataSetChanged();
+   }
 }
