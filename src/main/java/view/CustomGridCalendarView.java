@@ -10,7 +10,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.newagesmb.customgridcalendarlibrary.R;
+import com.livin.calendarview.R;
 
 import java.util.ArrayList;
 import java.util.Calendar;

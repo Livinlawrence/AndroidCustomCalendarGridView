@@ -11,7 +11,7 @@ import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.newagesmb.customgridcalendarlibrary.R;
+import com.livin.calendarview.R;
 
 import java.util.ArrayList;
 import java.util.Calendar;

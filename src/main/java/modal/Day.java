@@ -45,6 +45,9 @@ public class Day {
 		return event_status;
 	}
 
+	public void setEvent_status(boolean event_status) {
+		this.event_status = event_status;
+	}
 
 	public int getMonth() {
 		return month;
